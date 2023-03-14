@@ -130,6 +130,5 @@ public class Main {
         int differenceK = (int) (increaceK * 12);
         System.out.println("Кристина будет получать в месяц " + salaryK2 + " рублей. годовой доход вырос на " + differenceK + " рублей");
 
-
     }
 }
